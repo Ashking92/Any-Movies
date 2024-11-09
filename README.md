@@ -1,48 +1,71 @@
-# Any Movie
-
-**Any Movie** is a 100% free OTT platform for streaming English movies and TV shows with zero ads. Enjoy an extensive library of movies and shows with multiple subtitles and high-quality streaming, all without the need for an account or registration.
-
-### 📱 Key Features
-- **Ad-Free Experience**: 100% free streaming with no ads.
-- **Massive Collection**: Access a vast library of movies and TV shows across multiple genres.
-- **Multiple Subtitle Options**: Watch with subtitles in various languages.
-- **No Account Needed**: Stream without signing up or registering.
-- **Optimized UI/UX**: A clean, intuitive, and user-friendly interface.
-- **Multiple Providers**: Access content from multiple providers in one place.
-- **Resume Playback**: Continue watching from where you left off.
-- **In-App Updates**: Seamless updates within the app.
-
-### 🛠️ Built With
-- **Android Studio**: Development environment.
-- **Kotlin**: The primary language for building the app.
-- **Retrofit**: For making network requests and API integration.
-- **ExoPlayer**: Customizable video player for streaming.
-- **Leanback**: Android TV UI support.
-- **Coroutines**: For managing background tasks and asynchronous programming.
-- **MVVM Architecture**: Clean and maintainable app architecture.
-- **Android Architecture Components**: Provides lifecycle-aware components and other tools to build robust applications.
-
-### 🔧 Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ashking92/Any-Movies.git
-   ```
-2. Open the project in **Android Studio**.
-3. Build and run the app on your Android device or emulator.
-
-### 📚 Usage
-1. Launch **Any Movie** on your Android device.
-2. Browse the extensive catalog of movies and shows.
-3. Tap on any movie or show to start streaming.
-4. Adjust subtitle options as needed.
-5. Resume playback at any time.
-
-### 🤝 Contributing
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
-
-### 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+A release file provides essential details about a specific version of your app, including version numbers, new features, bug fixes, and instructions for installation. Here’s a basic release file template you can adapt for *Any Movie*:
 
 ---
 
-Let me know if you'd like to add any additional sections!
+# Any Movie - Release Notes
+
+### Version 1.0.0
+**Release Date**: November 9, 2024
+
+---
+
+### 🚀 Overview
+*Any Movie* is a free, ad-free OTT streaming app for English movies and TV shows. This first release includes essential features for a seamless viewing experience without the need for registration or an account.
+
+---
+
+### 🎉 Key Features
+- **Free & Ad-Free**: 100% free streaming with no ads for uninterrupted viewing.
+- **Huge Collection**: Access a vast library of English movies and shows.
+- **Subtitles**: Multiple subtitle options for enhanced accessibility.
+- **No Registration Needed**: Watch instantly without signing up.
+- **Optimized UI/UX**: Smooth, user-friendly navigation and design.
+- **Playback Resume**: Continue from where you left off.
+- **In-App Updates**: Automatic updates within the app.
+
+### 🛠️ Built With
+- **Android Studio**
+- **Kotlin**
+- **Retrofit**
+- **ExoPlayer**
+- **Leanback**
+- **Coroutines**
+- **MVVM Architecture**
+- **Android Architecture Components**
+
+---
+
+### 🐛 Bug Fixes & Improvements
+- **Resolved**: Minor playback lag on slower devices.
+- **Optimized**: UI elements for smoother navigation and interaction.
+- **Improved**: Subtitle synchronization for a better viewing experience.
+
+---
+
+### 🚀 Installation Instructions
+1. Download the latest APK from [Releases](https://github.com/Ashking92/Any-Movies/releases).
+2. Install the APK on your Android device.
+3. Open the app and start streaming!
+
+---
+
+### 📢 Known Issues
+- Limited to English language content; multi-language support is planned for future updates.
+- Occasional delay in loading content thumbnails on low-bandwidth networks.
+
+---
+
+### 📅 Future Plans
+- Expand content providers.
+- Add personalized watchlists and user preferences.
+- Offline download feature for selected content.
+  
+---
+
+### 🔗 Links
+- [GitHub Repository](https://github.com/Ashking92/Any-Movies)
+- [Contact Support](mailto:kingash1530@gmail.com)
+
+---
+
+Each release version can build on this template by updating the features, improvements, and bug fixes specific to that version. Let me know if you want any changes or additional sections for this release file!
