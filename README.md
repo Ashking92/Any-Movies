@@ -1,7 +1,3 @@
-A release file provides essential details about a specific version of your app, including version numbers, new features, bug fixes, and instructions for installation. Here’s a basic release file template you can adapt for *Any Movie*:
-
----
-
 # Any Movie - Release Notes
 
 ### Version 1.0.0
